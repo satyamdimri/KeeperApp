@@ -1,3 +1,4 @@
 # KeeperApp
-App made with React js
-Created with CodeSandbox
+App made with React js,
+
+Created in CodeSandbox
